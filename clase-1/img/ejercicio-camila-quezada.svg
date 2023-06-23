@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="grafica" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1560.93 1138.79">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 14px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #1e1e1c;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        font-family: BarlowSemiCondensed-SemiBold, 'Barlow Semi Condensed';
+        font-weight: 600;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        font-size: 16px;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-size: 12px;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-size: 19.47px;
+      }
+
+      .cls-26 {
+        stroke: #1e1e1c;
+      }
+
+      .cls-26, .cls-27 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-28 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        letter-spacing: 0em;
+      }
+
+      .cls-33 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-34 {
+        letter-spacing: 0em;
+      }
+
+      .cls-35 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        stroke: #009fe3;
+        stroke-width: .5px;
+      }
+
+      .cls-36 {
+        letter-spacing: 0em;
+      }
+
+      .cls-37 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-26" x="666" y="44.5" width="262.29" height="1049.79"/>
+  <rect class="cls-26" x="1116.23" y="44.5" width="262.29" height="1049.79"/>
+  <text class="cls-3" transform="translate(52.94 601.48)"><tspan x="0" y="0">Ciclismo en ruta</tspan></text>
+  <text class="cls-1" transform="translate(187 312.98)"><tspan class="cls-12" x="0" y="0">c</tspan><tspan x="6.64" y="0">on</tspan><tspan class="cls-20" x="20.44" y="0">t</tspan><tspan class="cls-14" x="24.96" y="0">e</tspan><tspan class="cls-24" x="31.6" y="0">x</tspan><tspan class="cls-32" x="38.12" y="0">t</tspan><tspan x="42.64" y="0">o</tspan></text>
+  <text class="cls-1" transform="translate(187 228.73)"><tspan class="cls-13" x="0" y="0">T</tspan><tspan x="6.23" y="0">ema</tspan></text>
+  <text class="cls-1" transform="translate(352.33 228.73)"><tspan x="0" y="0">Sub</tspan><tspan class="cls-20" x="20.97" y="0">t</tspan><tspan class="cls-30" x="25.49" y="0">ema</tspan></text>
+  <text class="cls-1" transform="translate(529.25 228.73)"><tspan x="0" y="0">A</tspan><tspan class="cls-11" x="7.92" y="0">r</tspan><tspan class="cls-12" x="12.64" y="0">c</tspan><tspan class="cls-24" x="19.28" y="0">o</tspan></text>
+  <text class="cls-1" transform="translate(512.36 291.67)"><tspan class="cls-14" x="0" y="0">e</tspan><tspan class="cls-24" x="6.64" y="0">xposición</tspan></text>
+  <text class="cls-1" transform="translate(512.36 578.32)"><tspan x="0" y="0">desenla</tspan><tspan class="cls-12" x="43.36" y="0">c</tspan><tspan x="49.99" y="0">e</tspan></text>
+  <text class="cls-1" transform="translate(512.36 535.35)"><tspan x="0" y="0">a</tspan><tspan class="cls-12" x="6.68" y="0">c</tspan><tspan x="13.31" y="0">ción as</tspan><tspan class="cls-12" x="52.82" y="0">c</tspan><tspan x="59.46" y="0">enden</tspan><tspan class="cls-32" x="93.67" y="0">t</tspan><tspan x="98.19" y="0">e</tspan></text>
+  <text class="cls-1" transform="translate(512.36 373.33)"><tspan x="0" y="0">a</tspan><tspan class="cls-12" x="6.68" y="0">c</tspan><tspan x="13.31" y="0">ción as</tspan><tspan class="cls-12" x="52.82" y="0">c</tspan><tspan x="59.46" y="0">enden</tspan><tspan class="cls-32" x="93.67" y="0">t</tspan><tspan x="98.19" y="0">e</tspan></text>
+  <text class="cls-1" transform="translate(512.36 770.17)"><tspan x="0" y="0">a</tspan><tspan class="cls-12" x="6.68" y="0">c</tspan><tspan x="13.31" y="0">ción as</tspan><tspan class="cls-12" x="52.82" y="0">c</tspan><tspan x="59.46" y="0">enden</tspan><tspan class="cls-32" x="93.67" y="0">t</tspan><tspan x="98.19" y="0">e</tspan></text>
+  <text class="cls-1" transform="translate(512.36 499.51)"><tspan x="0" y="0">a</tspan><tspan class="cls-12" x="6.68" y="0">c</tspan><tspan x="13.31" y="0">ción as</tspan><tspan class="cls-12" x="52.82" y="0">c</tspan><tspan x="59.46" y="0">enden</tspan><tspan class="cls-32" x="93.67" y="0">t</tspan><tspan x="98.19" y="0">e</tspan></text>
+  <text class="cls-1" transform="translate(512.36 734.53)"><tspan x="0" y="0">desenla</tspan><tspan class="cls-12" x="43.36" y="0">c</tspan><tspan x="49.99" y="0">e</tspan></text>
+  <text class="cls-1" transform="translate(512.36 693.71)"><tspan x="0" y="0">a</tspan><tspan class="cls-12" x="6.68" y="0">c</tspan><tspan x="13.31" y="0">ción des</tspan><tspan class="cls-12" x="59.83" y="0">c</tspan><tspan x="66.47" y="0">enden</tspan><tspan class="cls-20" x="100.69" y="0">t</tspan><tspan class="cls-30" x="105.21" y="0">e</tspan></text>
+  <text class="cls-1" transform="translate(512.36 461.94)"><tspan x="0" y="0">a</tspan><tspan class="cls-12" x="6.68" y="0">c</tspan><tspan x="13.31" y="0">ción des</tspan><tspan class="cls-12" x="59.83" y="0">c</tspan><tspan x="66.47" y="0">enden</tspan><tspan class="cls-20" x="100.69" y="0">t</tspan><tspan class="cls-30" x="105.21" y="0">e</tspan></text>
+  <text class="cls-1" transform="translate(512.36 868.86)"><tspan x="0" y="0">a</tspan><tspan class="cls-12" x="6.68" y="0">c</tspan><tspan x="13.31" y="0">ción des</tspan><tspan class="cls-12" x="59.83" y="0">c</tspan><tspan x="66.47" y="0">enden</tspan><tspan class="cls-20" x="100.69" y="0">t</tspan><tspan class="cls-30" x="105.21" y="0">e</tspan></text>
+  <text class="cls-1" transform="translate(512.36 902.36)"><tspan x="0" y="0">desenla</tspan><tspan class="cls-12" x="43.36" y="0">c</tspan><tspan x="49.99" y="0">e</tspan></text>
+  <text class="cls-1" transform="translate(187 514.47)"><tspan x="0" y="0">modo de </tspan><tspan class="cls-12" x="50.53" y="0">c</tspan><tspan x="57.16" y="0">omp</tspan><tspan class="cls-7" x="81.52" y="0">e</tspan><tspan class="cls-32" x="88.2" y="0">t</tspan><tspan x="92.72" y="0">encia</tspan></text>
+  <text class="cls-1" transform="translate(351.44 274.87)"><tspan x="0" y="0">Linea de tiempo</tspan><tspan x="0" y="16.8">prime</tspan><tspan class="cls-21" x="32.34" y="16.8">r</tspan><tspan x="37.11" y="16.8">as ediciones</tspan><tspan x="0" y="33.6">in</tspan><tspan class="cls-20" x="10.18" y="33.6">t</tspan><tspan class="cls-30" x="14.7" y="33.6">eg</tspan><tspan class="cls-31" x="28.34" y="33.6">r</tspan><tspan x="33.11" y="33.6">acion de la mujer</tspan></text>
+  <text class="cls-1" transform="translate(351.44 332.93)"><tspan x="0" y="0">ubicación gene</tspan><tspan class="cls-21" x="84.29" y="0">r</tspan><tspan x="89.07" y="0">al</tspan></text>
+  <text class="cls-1" transform="translate(351.44 359.03)"><tspan x="0" y="0">medalle</tspan><tspan class="cls-11" x="43.79" y="0">r</tspan><tspan x="48.51" y="0">o</tspan></text>
+  <text class="cls-1" transform="translate(351.44 386.57)"><tspan x="0" y="0">cu</tspan><tspan class="cls-8" x="13.52" y="0">o</tspan><tspan x="20.37" y="0">ta </tspan><tspan class="cls-21" x="34.44" y="0">a</tspan><tspan x="41.06" y="0">tl</tspan><tspan class="cls-7" x="48.75" y="0">e</tspan><tspan x="55.42" y="0">tas y </tspan><tspan x="0" y="14">nume</tspan><tspan class="cls-11" x="30.95" y="14">r</tspan><tspan x="35.67" y="14">os o </tspan><tspan x="0" y="28">clasificación</tspan></text>
+  <text class="cls-1" transform="translate(351.44 461.83)"><tspan x="0" y="0">ruta individual</tspan></text>
+  <text class="cls-1" transform="translate(353.6 532.48)"><tspan class="cls-12" x="0" y="0">c</tspan><tspan x="6.64" y="0">ont</tspan><tspan class="cls-21" x="25.03" y="0">r</tspan><tspan x="29.81" y="0">ar</tspan><tspan class="cls-11" x="41.31" y="0">r</tspan><tspan x="46.03" y="0">eloj</tspan></text>
+  <text class="cls-1" transform="translate(351.44 579.05)"><tspan class="cls-12" x="0" y="0">c</tspan><tspan x="6.64" y="0">omp</tspan><tspan class="cls-7" x="31" y="0">e</tspan><tspan x="37.67" y="0">tido</tspan><tspan class="cls-11" x="59.42" y="0">r</tspan><tspan x="64.13" y="0">es</tspan></text>
+  <text class="cls-1" transform="translate(351.44 633.54)"><tspan class="cls-33" x="0" y="0">v</tspan><tspan x="6.16" y="0">e</tspan><tspan class="cls-16" x="12.94" y="0">s</tspan><tspan x="19.17" y="0">timenta del </tspan><tspan x="0" y="14">cicli</tspan><tspan class="cls-16" x="23.06" y="14">s</tspan><tspan x="29.29" y="14">ta</tspan></text>
+  <text class="cls-1" transform="translate(351.44 771.33)"><tspan x="0" y="0">bici </tspan><tspan class="cls-12" x="23" y="0">c</tspan><tspan x="29.64" y="0">ont</tspan><tspan class="cls-21" x="48.03" y="0">r</tspan><tspan x="52.81" y="0">ar</tspan><tspan class="cls-11" x="64.31" y="0">r</tspan><tspan x="69.03" y="0">eloj</tspan></text>
+  <text class="cls-1" transform="translate(351.44 690.03)"><tspan x="0" y="0">bici de ruta </tspan><tspan x="0" y="14">ca</tspan><tspan class="cls-21" x="13.36" y="14">r</tspan><tspan x="18.13" y="14">a</tspan><tspan class="cls-12" x="24.81" y="14">c</tspan><tspan class="cls-32" x="31.44" y="14">t</tspan><tspan x="35.96" y="14">erí</tspan><tspan class="cls-16" x="50.65" y="14">s</tspan><tspan x="56.88" y="14">ticas</tspan></text>
+  <text class="cls-1" transform="translate(351.44 735.6)"><tspan x="0" y="0">medidas neumáti</tspan><tspan class="cls-12" x="95.62" y="0">c</tspan><tspan x="102.25" y="0">o</tspan></text>
+  <text class="cls-1" transform="translate(351.44 818.05)"><tspan x="0" y="0">p</tspan><tspan class="cls-11" x="6.97" y="0">r</tspan><tspan x="11.69" y="0">o</tspan><tspan class="cls-12" x="18.62" y="0">c</tspan><tspan class="cls-24" x="25.25" y="0">eso de pedaleo </tspan><tspan x="0" y="14">y sus músculos</tspan></text>
+  <text class="cls-1" transform="translate(351.44 865.17)"><tspan class="cls-12" x="0" y="0">c</tspan><tspan x="6.64" y="0">ombinaciones de </tspan><tspan x="0" y="14">cadena</tspan></text>
+  <text class="cls-1" transform="translate(351.44 905.8)"><tspan x="0" y="0">cadencia</tspan></text>
+  <text class="cls-1" transform="translate(187 657.47)"><tspan x="0" y="0">equipo y bicis</tspan></text>
+  <text class="cls-1" transform="translate(187 837.32)"><tspan x="0" y="0">pedaleo</tspan></text>
+  <line class="cls-27" x1="180.4" y1="425.41" x2="641.06" y2="425.41"/>
+  <line class="cls-27" x1="180.4" y1="250.96" x2="641.06" y2="250.96"/>
+  <line class="cls-27" x1="180.4" y1="598.35" x2="641.06" y2="598.35"/>
+  <line class="cls-27" x1="180.4" y1="793.4" x2="641.06" y2="793.4"/>
+  <line class="cls-27" x1="180.4" y1="921.96" x2="641.06" y2="921.96"/>
+  <text class="cls-3" transform="translate(523.53 827.52)"><tspan x="0" y="0">climax</tspan></text>
+  <rect class="cls-27" x="512.36" y="807.01" width="66" height="30.9"/>
+  <text class="cls-3" transform="translate(523.53 642.88)"><tspan x="0" y="0">climax</tspan></text>
+  <rect class="cls-27" x="512.36" y="622.93" width="66" height="30.9"/>
+  <text class="cls-1" transform="translate(354.21 499.4)"><tspan x="0" y="0">técnica en ruta</tspan></text>
+  <text class="cls-1" transform="translate(953.55 93.28)"><tspan x="0" y="0">titulo principal</tspan><tspan x="0" y="16.8">y bajada</tspan></text>
+  <text class="cls-1" transform="translate(953.55 157.95)"><tspan x="0" y="0">mini linea</tspan><tspan x="0" y="16.8">de tiempo</tspan></text>
+  <text class="cls-1" transform="translate(769.73 345.42)"><tspan x="0" y="0">Ubicación</tspan></text>
+  <text class="cls-1" transform="translate(752.88 129.86)"><tspan x="0" y="0">Linea de tiempo</tspan></text>
+  <text class="cls-1" transform="translate(1201.16 697.42)"><tspan x="0" y="0">P</tspan><tspan class="cls-11" x="7.36" y="0">r</tspan><tspan x="12.08" y="0">o</tspan><tspan class="cls-12" x="19.01" y="0">c</tspan><tspan x="25.65" y="0">eso pedaleo</tspan></text>
+  <text class="cls-1" transform="translate(1193.92 570.84)"><tspan x="0" y="0">Equipo </tspan><tspan class="cls-17" x="41" y="0">c</tspan><tspan x="47.64" y="0">ont</tspan><tspan class="cls-31" x="66.04" y="0">r</tspan><tspan x="70.81" y="0">ar</tspan><tspan class="cls-11" x="82.32" y="0">r</tspan><tspan x="87.04" y="0">eloj</tspan></text>
+  <text class="cls-1" transform="translate(1174.79 834.08)"><tspan class="cls-21" x="0" y="0">C</tspan><tspan x="7.41" y="0">ombinaciones de cadena</tspan></text>
+  <text class="cls-1" transform="translate(1221.76 1006.31)"><tspan class="cls-25" x="0" y="0">C</tspan><tspan x="7.43" y="0">adencia</tspan></text>
+  <text class="cls-4" transform="translate(758.3 767.81)"><tspan x="0" y="0">Técnica abani</tspan><tspan class="cls-17" x="66.39" y="0">c</tspan><tspan class="cls-22" x="72.08" y="0">o</tspan></text>
+  <text class="cls-5" transform="translate(734.96 75.28)"><tspan x="0" y="0">Ciclismo en ruta</tspan></text>
+  <g>
+    <rect class="cls-26" x="734.96" y="148.79" width="124.7" height="59.6" transform="translate(1594.62 357.18) rotate(180)"/>
+    <line class="cls-26" x1="859.66" y1="148.79" x2="734.96" y2="208.39"/>
+    <line class="cls-26" x1="859.66" y1="208.39" x2="734.96" y2="148.79"/>
+  </g>
+  <g>
+    <rect class="cls-26" x="755.7" y="354.27" width="83.21" height="59.6" transform="translate(1594.62 768.14) rotate(-180)"/>
+    <line class="cls-26" x1="838.92" y1="354.27" x2="755.7" y2="413.87"/>
+    <line class="cls-26" x1="838.92" y1="413.87" x2="755.7" y2="354.27"/>
+  </g>
+  <g>
+    <rect class="cls-26" x="699.28" y="970.24" width="196.07" height="91.52" transform="translate(1594.62 2031.99) rotate(-180)"/>
+    <line class="cls-26" x1="895.35" y1="970.24" x2="699.28" y2="1061.76"/>
+    <line class="cls-26" x1="895.35" y1="1061.76" x2="699.28" y2="970.24"/>
+  </g>
+  <g>
+    <rect class="cls-26" x="1171.46" y="165.53" width="151.93" height="70.92" transform="translate(2494.85 401.98) rotate(-180)"/>
+    <line class="cls-26" x1="1323.39" y1="165.53" x2="1171.46" y2="236.45"/>
+    <line class="cls-26" x1="1323.39" y1="236.45" x2="1171.46" y2="165.53"/>
+  </g>
+  <g>
+    <rect class="cls-26" x="745.81" y="673.21" width="103" height="73.77" transform="translate(1594.62 1420.18) rotate(-180)"/>
+    <line class="cls-26" x1="848.81" y1="673.21" x2="745.81" y2="746.98"/>
+    <line class="cls-26" x1="848.81" y1="746.98" x2="745.81" y2="673.21"/>
+  </g>
+  <g>
+    <rect class="cls-26" x="755.7" y="788.45" width="83.21" height="145.05" transform="translate(1594.62 1721.95) rotate(-180)"/>
+    <line class="cls-26" x1="838.92" y1="788.45" x2="755.7" y2="933.5"/>
+    <line class="cls-26" x1="838.92" y1="933.5" x2="755.7" y2="788.45"/>
+  </g>
+  <g>
+    <rect class="cls-26" x="1146.25" y="705.21" width="202.36" height="75.25" transform="translate(2494.85 1485.66) rotate(180)"/>
+    <line class="cls-26" x1="1348.6" y1="705.21" x2="1146.25" y2="780.45"/>
+    <line class="cls-26" x1="1348.6" y1="780.45" x2="1146.25" y2="705.21"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="724.58" y="89.43" width="145.45" height="2.57"/>
+    <rect class="cls-2" x="724.58" y="93.93" width="145.45" height="2.57"/>
+    <rect class="cls-2" x="724.58" y="98.43" width="145.45" height="2.57"/>
+    <rect class="cls-2" x="724.58" y="102.93" width="145.45" height="2.57"/>
+  </g>
+  <line class="cls-26" x1="878.68" y1="96.41" x2="945.54" y2="96.41"/>
+  <line class="cls-26" x1="869.44" y1="165.47" x2="945.54" y2="165.47"/>
+  <text class="cls-1" transform="translate(953.55 360.35)"><tspan x="0" y="0">mapa y </tspan><tspan class="cls-11" x="42.63" y="0">r</tspan><tspan x="47.35" y="0">e</tspan><tspan class="cls-37" x="54.12" y="0">g</tspan><tspan x="61.01" y="0">ión </tspan><tspan x="0" y="16.8">donde se </tspan><tspan class="cls-11" x="53.03" y="16.8">r</tspan><tspan x="57.75" y="16.8">ealiza</tspan><tspan class="cls-21" x="90.05" y="16.8">r</tspan><tspan x="94.82" y="16.8">a </tspan><tspan x="0" y="33.6">e</tspan><tspan class="cls-16" x="6.78" y="33.6">s</tspan><tspan x="13.01" y="33.6">ta prueba en los </tspan><tspan x="0" y="50.4">panamericanos</tspan></text>
+  <line class="cls-26" x1="869.44" y1="367.87" x2="945.54" y2="367.87"/>
+  <text class="cls-1" transform="translate(957.22 1007.09)"><tspan x="0" y="0">ilu</tspan><tspan class="cls-16" x="13.24" y="0">s</tspan><tspan x="19.47" y="0">t</tspan><tspan class="cls-31" x="24.07" y="0">r</tspan><tspan x="28.84" y="0">ación del cicli</tspan><tspan class="cls-16" x="104.74" y="0">s</tspan><tspan x="110.97" y="0">ta </tspan><tspan class="cls-12" x="0" y="16.8">c</tspan><tspan x="6.64" y="16.8">on elemen</tspan><tspan class="cls-20" x="63.99" y="16.8">t</tspan><tspan x="68.52" y="16.8">os </tspan><tspan x="0" y="33.6">de</tspan><tspan class="cls-16" x="13.69" y="33.6">s</tspan><tspan x="19.92" y="33.6">tacados</tspan></text>
+  <text class="cls-1" transform="translate(1402.37 605.23)"><tspan x="0" y="0">ilu</tspan><tspan class="cls-16" x="13.24" y="0">s</tspan><tspan x="19.47" y="0">t</tspan><tspan class="cls-31" x="24.07" y="0">r</tspan><tspan x="28.84" y="0">ación del cicli</tspan><tspan class="cls-16" x="104.74" y="0">s</tspan><tspan x="110.97" y="0">ta </tspan><tspan class="cls-12" x="0" y="16.8">c</tspan><tspan x="6.64" y="16.8">ont</tspan><tspan class="cls-21" x="25.03" y="16.8">r</tspan><tspan x="29.81" y="16.8">ar</tspan><tspan class="cls-11" x="41.31" y="16.8">r</tspan><tspan x="46.03" y="16.8">eloj </tspan><tspan class="cls-12" x="68.79" y="16.8">c</tspan><tspan x="75.43" y="16.8">on </tspan><tspan x="0" y="33.6">elemen</tspan><tspan class="cls-32" x="40.75" y="33.6">t</tspan><tspan x="45.28" y="33.6">os de</tspan><tspan class="cls-16" x="74.94" y="33.6">s</tspan><tspan x="81.17" y="33.6">tacados</tspan></text>
+  <line class="cls-26" x1="918.23" y1="1013.36" x2="949.2" y2="1013.36"/>
+  <text class="cls-1" transform="translate(1402.61 98.27)"><tspan x="0" y="0">zoom de algunos </tspan><tspan x="0" y="16.8">elemen</tspan><tspan class="cls-32" x="40.75" y="16.8">t</tspan><tspan x="45.28" y="16.8">os de</tspan><tspan class="cls-16" x="74.94" y="16.8">s</tspan><tspan x="81.17" y="16.8">tacados</tspan></text>
+  <line class="cls-26" x1="1363.62" y1="104.54" x2="1394.6" y2="104.54"/>
+  <text class="cls-1" transform="translate(1404.16 202.5)"><tspan x="0" y="0">diag</tspan><tspan class="cls-21" x="23.76" y="0">r</tspan><tspan x="28.53" y="0">ama </tspan><tspan class="cls-12" x="55.14" y="0">c</tspan><tspan x="61.78" y="0">on algunas </tspan><tspan x="0" y="16.8">medidas impo</tspan><tspan class="cls-10" x="77.75" y="16.8">r</tspan><tspan x="82.64" y="16.8">tan</tspan><tspan class="cls-20" x="100.78" y="16.8">t</tspan><tspan x="105.31" y="16.8">es</tspan></text>
+  <line class="cls-26" x1="1365.17" y1="208.77" x2="1396.14" y2="208.77"/>
+  <line class="cls-26" x1="1350.54" y1="615.93" x2="1394.67" y2="615.93"/>
+  <text class="cls-1" transform="translate(951.62 689.51)"><tspan x="0" y="0">imagen de cicli</tspan><tspan class="cls-16" x="83.3" y="0">s</tspan><tspan x="89.53" y="0">tas</tspan><tspan x="0" y="16.8">li</tspan><tspan class="cls-16" x="6.4" y="16.8">s</tspan><tspan class="cls-32" x="12.63" y="16.8">t</tspan><tspan x="17.15" y="16.8">os pa</tspan><tspan class="cls-21" x="46.77" y="16.8">r</tspan><tspan x="51.55" y="16.8">a pa</tspan><tspan class="cls-10" x="74.67" y="16.8">r</tspan><tspan x="79.56" y="16.8">tir o </tspan><tspan x="0" y="33.6">de un pel</tspan><tspan class="cls-8" x="49.85" y="33.6">o</tspan><tspan x="56.7" y="33.6">tón </tspan><tspan x="0" y="50.4">podria ser un video</tspan></text>
+  <line class="cls-26" x1="861.03" y1="693.54" x2="943.92" y2="693.54"/>
+  <line class="cls-26" x1="855.33" y1="839.29" x2="943.92" y2="839.29"/>
+  <text class="cls-1" transform="translate(1404.16 322.52)"><tspan x="0" y="0">imágenes </tspan><tspan class="cls-6" x="0" y="16.8">c</tspan><tspan x="6.64" y="16.8">ompa</tspan><tspan class="cls-35" x="37.67" y="16.8">r</tspan><tspan x="42.45" y="16.8">ando las dos </tspan><tspan x="0" y="33.6">medidas más usadas</tspan></text>
+  <line class="cls-26" x1="1320.05" y1="327.7" x2="1396.14" y2="327.7"/>
+  <text class="cls-1" transform="translate(736.68 609.27)"><tspan x="0" y="0">Modo de </tspan><tspan class="cls-17" x="48.76" y="0">c</tspan><tspan x="55.4" y="0">omp</tspan><tspan class="cls-18" x="79.76" y="0">e</tspan><tspan class="cls-20" x="86.43" y="0">t</tspan><tspan class="cls-30" x="90.96" y="0">encia</tspan></text>
+  <g>
+    <rect class="cls-2" x="755.69" y="421.61" width="83.25" height="2.57"/>
+    <rect class="cls-2" x="755.69" y="426.11" width="83.25" height="2.57"/>
+    <rect class="cls-2" x="755.69" y="430.61" width="83.25" height="2.57"/>
+    <rect class="cls-2" x="755.69" y="435.11" width="83.25" height="2.57"/>
+  </g>
+  <text class="cls-1" transform="translate(760.45 459.19)"><tspan x="0" y="0">Cu</tspan><tspan class="cls-36" x="14.31" y="0">o</tspan><tspan x="21.15" y="0">ta </tspan><tspan class="cls-21" x="35.22" y="0">a</tspan><tspan x="41.85" y="0">tl</tspan><tspan class="cls-18" x="49.53" y="0">e</tspan><tspan x="56.21" y="0">tas</tspan></text>
+  <g>
+    <rect class="cls-26" x="755.7" y="468.04" width="83.21" height="59.6" transform="translate(1594.62 995.67) rotate(-180)"/>
+    <line class="cls-26" x1="838.92" y1="468.04" x2="755.7" y2="527.63"/>
+    <line class="cls-26" x1="838.92" y1="527.63" x2="755.7" y2="468.04"/>
+  </g>
+  <text class="cls-1" transform="translate(731.2 553.09)"><tspan x="0" y="0">Clasificació</tspan><tspan class="cls-12" x="65.01" y="0">n</tspan><tspan class="cls-28" x="71.85" y="0">/</tspan><tspan x="77.03" y="0">núme</tspan><tspan class="cls-11" x="107.98" y="0">r</tspan><tspan x="112.7" y="0">o</tspan><tspan class="cls-23" x="119.63" y="0">s</tspan><tspan x="125.84" y="0">?</tspan></text>
+  <g>
+    <rect class="cls-2" x="755.69" y="558.34" width="83.25" height="2.57"/>
+    <rect class="cls-2" x="755.69" y="562.84" width="83.25" height="2.57"/>
+    <rect class="cls-2" x="755.69" y="567.34" width="83.25" height="2.57"/>
+    <rect class="cls-2" x="755.69" y="571.84" width="83.25" height="2.57"/>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-26" x="1150.26" y="63.69" width="85.48" height="37.62" transform="translate(2386 165.01) rotate(-180)"/>
+      <line class="cls-26" x1="1235.74" y1="63.69" x2="1150.26" y2="101.32"/>
+      <line class="cls-26" x1="1235.74" y1="101.32" x2="1150.26" y2="63.69"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="1150.76" y="107.09" width="84.47" height="2.58"/>
+      <rect class="cls-2" x="1150.76" y="111.61" width="84.47" height="2.58"/>
+      <rect class="cls-2" x="1150.76" y="116.13" width="84.47" height="2.58"/>
+      <rect class="cls-2" x="1150.76" y="120.66" width="84.47" height="2.58"/>
+    </g>
+    <g>
+      <rect class="cls-26" x="1259.11" y="63.69" width="85.48" height="37.62" transform="translate(2603.7 165.01) rotate(-180)"/>
+      <line class="cls-26" x1="1344.59" y1="63.69" x2="1259.11" y2="101.32"/>
+      <line class="cls-26" x1="1344.59" y1="101.32" x2="1259.11" y2="63.69"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="1259.62" y="107.09" width="84.47" height="2.58"/>
+      <rect class="cls-2" x="1259.62" y="111.61" width="84.47" height="2.58"/>
+      <rect class="cls-2" x="1259.62" y="116.13" width="84.47" height="2.58"/>
+      <rect class="cls-2" x="1259.62" y="120.66" width="84.47" height="2.58"/>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-26" x="1149.39" y="578.92" width="196.07" height="91.52" transform="translate(2494.85 1249.35) rotate(180)"/>
+    <line class="cls-26" x1="1345.46" y1="578.92" x2="1149.39" y2="670.44"/>
+    <line class="cls-26" x1="1345.46" y1="670.44" x2="1149.39" y2="578.92"/>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-26" x="1183.92" y="312.74" width="52.26" height="37.43" transform="translate(2420.1 662.91) rotate(180)"/>
+      <line class="cls-26" x1="1236.18" y1="312.74" x2="1183.92" y2="350.17"/>
+      <line class="cls-26" x1="1236.18" y1="350.17" x2="1183.92" y2="312.74"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="1184.23" y="357.73" width="51.64" height="2.57"/>
+      <rect class="cls-2" x="1184.23" y="362.23" width="51.64" height="2.57"/>
+    </g>
+    <g>
+      <rect class="cls-26" x="1258.67" y="312.74" width="52.26" height="37.43" transform="translate(2569.6 662.91) rotate(180)"/>
+      <line class="cls-26" x1="1310.93" y1="312.74" x2="1258.67" y2="350.17"/>
+      <line class="cls-26" x1="1310.93" y1="350.17" x2="1258.67" y2="312.74"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="1258.98" y="357.73" width="51.64" height="2.57"/>
+      <rect class="cls-2" x="1258.98" y="362.23" width="51.64" height="2.57"/>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-2" x="745.79" y="641.65" width="103.04" height="3.18"/>
+    <rect class="cls-2" x="745.79" y="647.22" width="103.04" height="3.18"/>
+    <rect class="cls-2" x="745.79" y="652.79" width="103.04" height="3.18"/>
+    <rect class="cls-2" x="745.79" y="658.36" width="103.04" height="3.18"/>
+  </g>
+  <text class="cls-1" transform="translate(1402.37 492.18)"><tspan x="0" y="0">video mo</tspan><tspan class="cls-29" x="50.55" y="0">s</tspan><tspan x="56.78" y="0">t</tspan><tspan class="cls-21" x="61.38" y="0">r</tspan><tspan x="66.15" y="0">ando</tspan><tspan x="0" y="16.8">pa</tspan><tspan class="cls-10" x="13.65" y="16.8">r</tspan><tspan x="18.54" y="16.8">tida</tspan></text>
+  <text class="cls-1" transform="translate(951.62 828.27)"><tspan x="0" y="0">g</tspan><tspan class="cls-31" x="6.86" y="0">r</tspan><tspan x="11.63" y="0">áfica</tspan><tspan x="0" y="16.8">describiendo</tspan><tspan x="0" y="33.6">la técnica</tspan></text>
+  <line class="cls-26" x1="1323.19" y1="498.08" x2="1394.67" y2="498.08"/>
+  <text class="cls-1" transform="translate(1402.37 876.36)"><tspan x="0" y="0">diag</tspan><tspan class="cls-21" x="23.76" y="0">r</tspan><tspan x="28.53" y="0">ama de la </tspan><tspan x="0" y="16.8">cadena de la bici</tspan></text>
+  <line class="cls-26" x1="1333.24" y1="879.49" x2="1394.67" y2="879.49"/>
+  <text class="cls-1" transform="translate(1402.37 960.87)"><tspan x="0" y="0">tabla mo</tspan><tspan class="cls-16" x="48.14" y="0">s</tspan><tspan x="54.38" y="0">t</tspan><tspan class="cls-31" x="58.97" y="0">r</tspan><tspan x="63.74" y="0">ando </tspan><tspan class="cls-8" x="0" y="16.8">o</tspan><tspan x="6.85" y="16.8">t</tspan><tspan class="cls-11" x="11.44" y="16.8">r</tspan><tspan x="16.16" y="16.8">os cambios</tspan></text>
+  <line class="cls-26" x1="1333.24" y1="963.99" x2="1394.67" y2="963.99"/>
+  <text class="cls-1" transform="translate(1402.37 1011.35)"><tspan x="0" y="0">definición y d</tspan><tspan class="cls-21" x="74.38" y="0">a</tspan><tspan class="cls-32" x="81" y="0">t</tspan><tspan x="85.52" y="0">o </tspan><tspan x="0" y="16.8">del cicli</tspan><tspan class="cls-16" x="42.64" y="16.8">s</tspan><tspan x="48.87" y="16.8">ta </tspan><tspan x="0" y="33.6">p</tspan><tspan class="cls-11" x="6.97" y="33.6">r</tspan><tspan class="cls-8" x="11.69" y="33.6">o</tspan><tspan class="cls-19" x="18.54" y="33.6">f</tspan><tspan class="cls-30" x="22.95" y="33.6">ecional</tspan></text>
+  <line class="cls-26" x1="1333.24" y1="1030.54" x2="1394.67" y2="1030.54"/>
+  <text class="cls-1" transform="translate(1402.37 705.32)"><tspan x="0" y="0">4 </tspan><tspan class="cls-32" x="10.05" y="0">f</tspan><tspan x="14.64" y="0">ases</tspan><tspan x="0" y="16.8">puede ser</tspan><tspan x="0" y="33.6">una animación</tspan><tspan x="0" y="50.4">del diag</tspan><tspan class="cls-21" x="43.34" y="50.4">r</tspan><tspan x="48.12" y="50.4">ama</tspan></text>
+  <line class="cls-26" x1="1356.62" y1="712.84" x2="1394.67" y2="712.84"/>
+  <g>
+    <rect class="cls-2" x="1195.9" y="432.43" width="103.04" height="3.18"/>
+    <rect class="cls-2" x="1195.9" y="438" width="103.04" height="3.18"/>
+    <rect class="cls-2" x="1195.9" y="443.57" width="103.04" height="3.18"/>
+    <rect class="cls-2" x="1195.9" y="449.14" width="103.04" height="3.18"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="755.69" y="776.55" width="83.25" height="2.57"/>
+    <rect class="cls-2" x="755.69" y="781.05" width="83.25" height="2.57"/>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-2" x="1156.03" y="788.73" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1156.03" y="793.23" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1156.03" y="797.73" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1156.03" y="802.23" width="41.62" height="2.57"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="1203.09" y="788.73" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1203.09" y="793.23" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1203.09" y="797.73" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1203.09" y="802.23" width="41.62" height="2.57"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="1250.14" y="788.73" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1250.14" y="793.23" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1250.14" y="797.73" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1250.14" y="802.23" width="41.62" height="2.57"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="1297.2" y="788.73" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1297.2" y="793.23" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1297.2" y="797.73" width="41.62" height="2.57"/>
+      <rect class="cls-2" x="1297.2" y="802.23" width="41.62" height="2.57"/>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-26" x="1195.92" y="467.38" width="103" height="73.77" transform="translate(2494.85 1008.53) rotate(-180)"/>
+    <polygon class="cls-26" points="1242.4 510.46 1242.4 498.08 1252.45 504.27 1242.4 510.46"/>
+  </g>
+  <text class="cls-1" transform="translate(1180.99 421.82)"><tspan x="0" y="0">2 </tspan><tspan class="cls-21" x="9.63" y="0">C</tspan><tspan x="17.04" y="0">ont</tspan><tspan class="cls-31" x="35.43" y="0">r</tspan><tspan x="40.21" y="0">ar</tspan><tspan class="cls-11" x="51.71" y="0">r</tspan><tspan x="56.43" y="0">eloj individual</tspan></text>
+  <text class="cls-1" transform="translate(778.21 961.75)"><tspan x="0" y="0">Equipo</tspan></text>
+  <text class="cls-1" transform="translate(752.74 632.83)"><tspan x="0" y="0">1 Ruta individual</tspan></text>
+  <text class="cls-4" transform="translate(1191.38 287.14)"><tspan class="cls-9" x="0" y="0">C</tspan><tspan x="6.35" y="0">omo se leen las </tspan><tspan x="0" y="14.4">medidas del neumáti</tspan><tspan class="cls-15" x="98.75" y="14.4">c</tspan><tspan x="104.43" y="14.4">o</tspan></text>
+  <g>
+    <rect class="cls-2" x="1184.22" y="376.4" width="126.41" height="2.57"/>
+    <rect class="cls-2" x="1184.22" y="380.9" width="126.41" height="2.57"/>
+    <rect class="cls-2" x="1184.22" y="385.4" width="126.41" height="2.57"/>
+    <rect class="cls-2" x="1184.22" y="389.9" width="126.41" height="2.57"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="1170.71" y="244" width="153.43" height="2.57"/>
+    <rect class="cls-2" x="1170.71" y="248.5" width="153.43" height="2.57"/>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-26" x="1173.81" y="848.13" width="50.01" height="59.6" transform="translate(2397.64 1755.85) rotate(180)"/>
+      <line class="cls-26" x1="1223.82" y1="848.13" x2="1173.81" y2="907.72"/>
+      <line class="cls-26" x1="1223.82" y1="907.72" x2="1173.81" y2="848.13"/>
+    </g>
+    <g>
+      <rect class="cls-26" x="1271.68" y="848.13" width="50.01" height="59.6" transform="translate(2593.37 1755.85) rotate(180)"/>
+      <line class="cls-26" x1="1321.69" y1="848.13" x2="1271.68" y2="907.72"/>
+      <line class="cls-26" x1="1321.69" y1="907.72" x2="1271.68" y2="848.13"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="1172.44" y="918.83" width="51.45" height="3.18"/>
+      <rect class="cls-2" x="1172.44" y="924.39" width="51.45" height="3.18"/>
+      <rect class="cls-2" x="1172.44" y="929.96" width="51.45" height="3.18"/>
+      <rect class="cls-2" x="1172.44" y="935.52" width="51.45" height="3.18"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="1270.96" y="918.83" width="51.45" height="3.18"/>
+      <rect class="cls-2" x="1270.96" y="924.39" width="51.45" height="3.18"/>
+      <rect class="cls-2" x="1270.96" y="929.96" width="51.45" height="3.18"/>
+      <rect class="cls-2" x="1270.96" y="935.52" width="51.45" height="3.18"/>
+    </g>
+  </g>
+  <g>
+    <rect class="cls-2" x="1173.96" y="1019.59" width="146.93" height="3.18"/>
+    <rect class="cls-2" x="1173.96" y="1025.15" width="146.93" height="3.18"/>
+    <rect class="cls-2" x="1173.96" y="1030.71" width="146.93" height="3.18"/>
+    <rect class="cls-2" x="1173.96" y="1036.28" width="146.93" height="3.18"/>
+  </g>
+  <text class="cls-1" transform="translate(770.47 238.57)"><tspan x="0" y="0">Medalle</tspan><tspan class="cls-11" x="42.03" y="0">r</tspan><tspan x="46.75" y="0">o</tspan></text>
+  <text class="cls-1" transform="translate(953.55 261.82)"><tspan x="0" y="0">t</tspan><tspan class="cls-11" x="4.59" y="0">r</tspan><tspan x="9.31" y="0">es países </tspan><tspan class="cls-17" x="63.92" y="0">c</tspan><tspan x="70.56" y="0">on </tspan><tspan x="0" y="16.8">más medallas en </tspan><tspan x="0" y="33.6">los panamericanos</tspan></text>
+  <line class="cls-26" x1="904.62" y1="269.34" x2="945.54" y2="269.34"/>
+  <g>
+    <g>
+      <rect class="cls-26" x="701.2" y="254.7" width="52.53" height="37.62" transform="translate(1454.94 547.03) rotate(-180)"/>
+      <line class="cls-26" x1="753.74" y1="254.7" x2="701.2" y2="292.33"/>
+      <line class="cls-26" x1="753.74" y1="292.33" x2="701.2" y2="254.7"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="701.52" y="298.1" width="51.91" height="2.58"/>
+      <rect class="cls-2" x="701.52" y="302.62" width="51.91" height="2.58"/>
+      <rect class="cls-2" x="701.52" y="307.14" width="51.91" height="2.58"/>
+      <rect class="cls-2" x="701.52" y="311.67" width="51.91" height="2.58"/>
+    </g>
+    <g>
+      <rect class="cls-26" x="771.54" y="254.7" width="52.53" height="37.62" transform="translate(1595.61 547.03) rotate(-180)"/>
+      <line class="cls-26" x1="824.07" y1="254.7" x2="771.54" y2="292.33"/>
+      <line class="cls-26" x1="824.07" y1="292.33" x2="771.54" y2="254.7"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="771.85" y="298.1" width="51.91" height="2.58"/>
+      <rect class="cls-2" x="771.85" y="302.62" width="51.91" height="2.58"/>
+      <rect class="cls-2" x="771.85" y="307.14" width="51.91" height="2.58"/>
+      <rect class="cls-2" x="771.85" y="311.67" width="51.91" height="2.58"/>
+    </g>
+    <g>
+      <rect class="cls-26" x="840.89" y="254.7" width="52.53" height="37.62" transform="translate(1734.3 547.03) rotate(-180)"/>
+      <line class="cls-26" x1="893.42" y1="254.7" x2="840.89" y2="292.33"/>
+      <line class="cls-26" x1="893.42" y1="292.33" x2="840.89" y2="254.7"/>
+    </g>
+    <g>
+      <rect class="cls-2" x="841.2" y="298.1" width="51.91" height="2.58"/>
+      <rect class="cls-2" x="841.2" y="302.62" width="51.91" height="2.58"/>
+      <rect class="cls-2" x="841.2" y="307.14" width="51.91" height="2.58"/>
+      <rect class="cls-2" x="841.2" y="311.67" width="51.91" height="2.58"/>
+    </g>
+  </g>
+  <text class="cls-4" transform="translate(1188.63 157.27)"><tspan class="cls-23" x="0" y="0">C</tspan><tspan x="6.37" y="0">a</tspan><tspan class="cls-9" x="12.1" y="0">r</tspan><tspan x="16.19" y="0">a</tspan><tspan class="cls-17" x="21.91" y="0">c</tspan><tspan class="cls-34" x="27.6" y="0">t</tspan><tspan x="31.48" y="0">erí</tspan><tspan class="cls-16" x="44.06" y="0">s</tspan><tspan x="49.4" y="0">ticas de la bici</tspan></text>
+  <g>
+    <rect class="cls-26" x="1171.88" y="949.81" width="151.09" height="33.16" transform="translate(2494.85 1932.77) rotate(180)"/>
+    <line class="cls-26" x1="1322.97" y1="949.81" x2="1171.88" y2="982.97"/>
+    <line class="cls-26" x1="1322.97" y1="982.97" x2="1171.88" y2="949.81"/>
+  </g>
+</svg>
