@@ -10,9 +10,23 @@ Sábado 1 de julio de 2023 → Pre-entrega
 
 Martes 4 de julio de 2023 → Entrega
 
-Para la entrega tendrá que ser claro para cada estudiante que el módulo no persigió "digitalizar" una infografía ya fija en el impreso.
+### Materiales
 
-El módulo invita a replantearla para un [formato variable](https://screensiz.es/) que puede ser digital, interactivo y/o dinámico, y que tiene reglas distintas [de lectura](https://www.nngroup.com/articles/how-users-read-on-the-web/) y propagación.
+- navegador web ([Chrome](https://www.google.com/intl/es-419/chrome/) o [Firefox](https://www.mozilla.org/es-CL/firefox/new/); **NO utilizaremos Safari**). Es muy necesario que desactive los traductores en su navegador, porque la traducción automática (y forzada) al español puede complicar un trabajo que se hace, principalmente, en inglés. También es necesario que sepa como "Ver el código fuente de la página", [inspeccionar elementos](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web) y [abrir consola](https://transferwise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador)
+
+- editor de código fuente ([Sublime Text](https://www.sublimetext.com/) o [Phoenix Code Editor](https://phcode.dev/))
+
+- cuenta personal en [GitHub](https://github.com/join), para:
+
+  - [crear un repositorio](https://docs.github.com/es/get-started/quickstart/create-a-repo) por cada clase
+
+  - activar [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) en cada repositorio creado
+    
+### Resultados
+
+Al cierre del módulo será claro para cada estudiante que no corresponde "digitalizar" de manera directa una infografía ya fija en el impreso.
+
+El módulo invita a replantearla para un [formato variable](https://screensiz.es/) que puede ser digital, interactivo y/o dinámico, y que tiene reglas distintas [de lectura](https://www.nngroup.com/articles/how-users-read-on-the-web/), [exploración](https://youtu.be/iEB3oILm-qQ?t=2183) y [propagación](https://www.youtube.com/watch?v=pqRfaUNRBak&t=996s).
 
 Revise, por ejemplo, cómo Brian Wang replantea su infografía:
 
