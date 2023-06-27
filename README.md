@@ -30,11 +30,11 @@ Martes 4 de julio de 2023 → Entrega
 
 Revise, por ejemplo, cómo Brian Wang replantea su infografía:
 
-- https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/202301A318.html
+- The rabbit hops in → https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/202301A318.html
 
-- https://multimedia.scmp.com/infographics/culture/article/3206232/year-of-the-rabbit/index.html
+- All you need to know about the Year of the Rabbit → https://multimedia.scmp.com/infographics/culture/article/3206232/year-of-the-rabbit/index.html
 
-¿Acaso mantiene los elementos? ¿Mantiene orden y jerarquías? ¿Notaron las fechas de publición de cada versión?
+¿Acaso mantiene los mismos elementos? ¿Mantiene orden y jerarquías? ¿Notaron las fechas de publición de cada versión?
 
 Puede buscar más ejemplos del necesario replanteo en:
 
