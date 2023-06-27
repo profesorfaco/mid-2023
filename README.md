@@ -24,9 +24,9 @@ Martes 4 de julio de 2023 → Entrega
     
 ### Resultados
 
-Al cierre del módulo será claro para cada estudiante que no corresponde "digitalizar" de manera directa una infografía ya fija en el impreso.
+**Al cierre del módulo será claro para cada estudiante que no corresponde "digitalizar" de manera directa una infografía ya fija en el impreso**.
 
-El módulo invita a replantearla para un [formato variable](https://screensiz.es/) que puede ser digital, interactivo y/o dinámico, y que tiene reglas distintas [de lectura](https://www.nngroup.com/articles/how-users-read-on-the-web/), [exploración](https://youtu.be/iEB3oILm-qQ?t=2183) y [propagación](https://www.youtube.com/watch?v=pqRfaUNRBak&t=996s).
+**El módulo invita a replantearla para un [formato variable](https://screensiz.es/) que puede ser digital, interactivo y/o dinámico, y que tiene reglas distintas [de lectura](https://www.nngroup.com/articles/how-users-read-on-the-web/), [exploración](https://youtu.be/iEB3oILm-qQ?t=2183) y [propagación](https://www.youtube.com/watch?v=pqRfaUNRBak&t=996s)**.
 
 Revise, por ejemplo, cómo Brian Wang replantea su infografía:
 
