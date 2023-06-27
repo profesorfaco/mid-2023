@@ -20,7 +20,7 @@ Revise, por ejemplo, cómo Brian Wang replantea su infografía:
 
 - https://multimedia.scmp.com/infographics/culture/article/3206232/year-of-the-rabbit/index.html
 
-- ¿Mantiene lo elementos? ¿Mantiene un orden? ¿Mantiene las jerarquías y los clímax?
+¿Acaso mantiene los elementos? ¿Mantiene su orden? ¿Mantiene sus jerarquías?
 
 Puede buscar más ejemplos del necesario replanteo en:
 
