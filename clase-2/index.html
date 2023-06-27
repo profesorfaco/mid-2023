@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Módulo Infografía Digital | Clase 2</title>
+        <!-- EN LA LÍNEA QUE SIGUE ESTOY VINCULANDO AL CSS DE BOOTSTRAP v5.3 -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" />
+        <!-- EN LAS LÍNEAS QUE SIGUEN ESTOY ESCRIBIENDO CSS ENTRE LAS ETIQUETAS CORRESPONDIENTES -->
+        <style>
+            @media (min-width: 992px) {
+                .container {
+                    max-width: 960px;
+                }
+            }
+
+            @import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@500&family=DM+Sans:wght@500;700&display=swap");
+
+            :root {
+                --bs-body-font-family: "DM Sans", sans-serif;
+                --bs-body-font-weight: 500;
+                --bs-body-font-size: 1.5rem;
+                --bs-body-color: rgba(255, 255, 255, 0.75);
+                --bs-body-bg: #0b0923;
+            }
+
+            html,
+            body {
+                min-height: 100%;
+            }
+
+            article {
+                min-height: 98vh;
+                padding-top: 1vh;
+                padding-bottom: 1vh;
+            }
+
+            @media (orientation: portrait) {
+                article {
+                    min-height: auto;
+                    padding-top: 8vh;
+                    padding-bottom: 8vh;
+                }
+            }
+
+            em {
+                font-weight: 700;
+                font-style: normal;
+                color: rgba(255, 255, 255, 1);
+            }
+
+            .lead {
+                color: rgba(255, 255, 255, 0.6);
+                font-size: 120%;
+            }
+
+            span,
+            figcaption,
+            ul li {
+                color: rgba(255, 255, 255, 0.6);
+            }
+
+            ul li:hover {
+                color: rgba(255, 255, 255, 0.9);
+                transition: color ease 0.5s;
+            }
+
+            small {
+                font-size: 60%;
+            }
+
+            code {
+                background: #e4e4ed;
+                padding-left: 0.5rem;
+                padding-right: 0.5rem;
+                border-radius: 0.25rem;
+            }
+
+            pre {
+                background: #e4e4ec;
+                border: 2px solid #db3281;
+                border-radius: 2px;
+            }
+
+            pre code {
+                color: #db3281;
+                font-size: 1rem;
+            }
+        </style>
+    </head>
+    <body>
+        <a hre="#" class="fixed-top text-end p-3" data-bs-toggle="modal" data-bs-target="#elModal">
+            clase 2
+        </a>
+
+        <div class="container">
+            <article class="row align-items-center">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h1 class="lh-sm">
+                        Es necesario trabajar con <em>HTML</em>, <em>CSS</em> y <em>JavaScript</em> para poder responderle a cada navegador algunas preguntas, antes de que éste pueda visualizar la página con su infografía digital.
+                    </h1>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2 class="fs-3"><em>¿Qué es lo que contiene la página?</em> Esto se responde con <em>HTML</em> (<em>H</em>yper<em>T</em>ext <em>M</em>arkup <em>L</em>anguage).</h2>
+                    <p>Un lenguaje estándar que describe la estructura de las páginas web. HTML5 es la versión más reciente de este lenguaje.</p>
+                    <p>El bloque constructivo más básico del HTML es el <em>elemento</em>. Cada elemento es, generalmente, <code>&lt;etiqueta&gt;<strong>contenido</strong>&lt;/etiqueta&gt;</code></p>
+                    <p>
+                        Así, por ejemplo, un encabezado (<em>h</em>eading) de primer nivel (<em>1</em>) se describe como <code>&lt;h1&gt;<strong>el texto del título</strong>&lt;/h1&gt;</code>
+                    </p>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2 class="fs-3"><em>¿Cómo se muestra lo que contiene la página?</em> Esto se responde con <em>CSS</em> (<em>C</em>ascading <em>S</em>tyle <em>S</em>heets)</h2>
+                    <p>Un lenguaje estándar que describe la presentación de las páginas web. CSS3 es la versión más reciente de este lenguaje.</p>
+                    <p>El bloque constructivo más básico del CSS es la <em>regla</em>. Cada regla es, generalmente: <code>selector{propiedad:valor;}</code></p>
+                    <p>Así, por ejemplo, puedo definir que el encabezado de primer nivel sea rojo <code>h1{color:red;}</code></p>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div class="col-11 col-md-10 mx-auto">
+                    <h2 class="fs-3"><em>¿Qué hace la página con lo que contiene y se muestra?</em> Esto se responde con <em>JS (JavaScript)</em>.</h2>
+                    <p>
+                        Un lenguaje de programación que controla el comportamiento de las páginas web. Con JS se pueden escribir secuencias de instrucciones con las que una computadora realizará una tarea determinada. Su estructura puede
+                        variar dependiendo de la lógica de cada instrucción, la versión en uso, la library en la que nos apoyemos para resolver algo específico, o el framework de programación con el que se levanta todo el trabajo.
+                    </p>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div>
+                    <div class="col-11 col-md-10 mx-auto">
+                        <h2 class="fs-3"><em>HTML</em>, <em>CSS</em> y <em>JavaScript</em> trabajan juntos</h2>
+                        <p>Un documento <code>.html</code> puede vincularse a un documento <code>.css</code> y también a un documento <code>.js</code></p>
+                    </div>
+                    <figure class="col-md-11 mx-auto">
+                        <object data="img/relacionar.svg" type="image/svg+xml" class="w-100 my-3 bg-white"></object>
+                    </figure>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div>
+                    <div class="col-11 col-md-10 mx-auto">
+                        <h2 class="fs-3"><em>HTML</em>, <em>CSS</em> y <em>JavaScript</em> trabajan juntos</h2>
+                        <p>Un único documento <code>.html</code> puede incluir, entre sus líneas, algo de <code>&lt;style&gt;CSS&lt;/style&gt;</code> y también <code>&lt;script&gt;JavaScript&lt;/script&gt;</code></p>
+                    </div>
+                    <figure class="col-md-11 mx-auto">
+                        <object data="img/incrustar.svg" type="image/svg+xml" class="w-100 my-3 bg-white"></object>
+                    </figure>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div>
+                    <div class="col-11 col-md-10 mx-auto">
+                        <h2 class="fs-3"><em>HTML</em>, <em>CSS</em> y <em>JavaScript</em> trabajan juntos</h2>
+                    </div>
+                    <pre class="col-md-11 mx-auto my-4 px-5"><code>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;link href="style.css" rel="stylesheet"&gt;
+        &lt;style&gt;
+            h1{color:red;}
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;script src="script.js"&gt;&lt;/script&gt;
+        &lt;script&gt;
+            console.log("hola");
+        &lt;/script&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+
+</code></pre>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div>
+                    <div class="col-11 col-md-10 mx-auto">
+                        <h2 class="fs-3">¡Ya entendí que <em>HTML</em>, <em>CSS</em> y <em>JavaScript</em> trabajan juntos! Ahora <em>quiero que mi página contenga gráficas</em></h2>
+                        <p>Para eso usa el <code>&lt;body&gt;…&lt;/body&gt;</code> y allí dentro coloca un par de elementos HTML, sea <code>&lt;img/&gt;</code> u <code>&lt;object&gt;&lt;/object&gt;</code>.</p>
+                        <p>El primero siempre va por un <em>src</em> (source), mientras el segundo va por un <em>data</em> cuyo <em>type</em> debe especificarse:</p>
+                    </div>
+                    <pre class="col-md-11 mx-auto my-4 px-5"><code>
+&lt;img src="rasterizada.jpg"/&gt;
+&lt;object data="vectorizada.svg" type="image/svg+xml"&gt;&lt;object&gt;
+    </code></pre>
+                    <div class="col-11 col-md-10 mx-auto">
+                        <p>
+                            Por sus extensiones, pueden notar que primero tengo una gráfica rasterizada y segundo una vectorizada. La extensión de la rasterizada es
+                            <a href="https://www.adobe.com/cl/creativecloud/file-types/image/raster/jpeg-file.html">jpg</a>, pero también podría ser
+                            <a href="https://www.adobe.com/cl/creativecloud/file-types/image/raster/png-file.html">png</a>, <a href="https://www.adobe.com/cl/creativecloud/file-types/image/raster/gif-file.html">gif</a>,
+                            <a href="https://www.adobe.com/cl/creativecloud/file-types/image/raster/webp-file.html">webp</a> o <a href="https://es.wikipedia.org/wiki/AVIF">avif</a>. La extensión de la vectorizada es
+                            <a href="https://www.adobe.com/cl/creativecloud/file-types/image/vector/svg-file.html">svg</a>.
+                        </p>
+                    </div>
+                </div>
+            </article>
+
+            <article class="row align-items-center">
+                <div>
+                    <div class="col-11 col-md-10 mx-auto">
+                        <h2 class="fs-3">Podría ser necesario que tu página contenga <em>dos versiones de una misma gráfica vectorizada</em>:</h2>
+                    </div>
+                    <figure class="col-md-11 mx-auto my-4">
+                        <object data="img/portrait.svg" type="image/svg+xml" class="d-lg-none w-100"></object>
+                        <object data="img/landscape.svg" type="image/svg+xml" class="d-none d-lg-block w-100"></object>
+                    </figure>
+                    <div class="col-11 col-md-10 mx-auto">
+                        <p>Una versión de la gráfica, que podemos llamar <em>portrait</em>, se muestra antes que la pantalla sea grande, mientras que otra versión, que podemos llamar <em>landscape</em>, se muestra desde la pantalla grande</p>
+                    </div>
+                </div>
+            </article>
+            <article class="row align-items-center">
+                <div>
+                    <div class="col-11 col-md-10 mx-auto">
+                        <h2 class="fs-3">¡Tal intercambios de gráficas se puede resolver con <em>HTML y CSS trabajando juntos</em>!</h2>
+                        <p>Con HTML se va por ambas gráficas. Y con CSS se le indicas a una que se muestre mientras la otra se esconde, según la pantalla.</p>
+                        <p>Si usamos Bootstrap 5.3, basta con agregar algunas clases que vinculan con reglas de CSS específicas y ya definidas:</p>
+                    </div>
+                    <pre class="col-md-11 mx-auto my-4 px-5"><code>
+&lt;object data="img/portrait.svg" type="image/svg+xml" class="d-lg-none"&gt;&lt;/object&gt;
+&lt;object data="img/landscape.svg" type="image/svg+xml" class="d-none d-lg-block"&gt;&lt;/object&gt;
+    </code></pre>
+                    <div class="col-11 col-md-10 mx-auto">
+                        <p>Y <a href="https://getbootstrap.com/">Bootstrap 5.3</a> es lo que usaremos para simplificarnos el trabajo, para no ahogarnos en detalles de CSS, pero aún contar con reglas que nos permitan intercambiar gráficas, entre varias cosas más.</p>
+                    </div>
+                </div>
+            </article>
+        </div>
+
+        <!-- Modal -->
+        <div class="modal fade" id="elModal" tabindex="-1" aria-labelledby="elModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content text-black bg-white">
+                    <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="elModalLabel">clase-1</h1>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <dl>
+                            <dt class="fs-3 pb-3">Martes, 27 de junio de 2023</dt>
+                            <dd>HTML</dd>
+                            <dd>CSS</dd>
+                            <dd>JavaScript</dd>
+                            <dd>Gráficas</dd>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- EN LA LÍNEA QUE SIGUE ESTOY VINCULANDO A JAVASCRIPT DE BOOTSTRAP v5.3 -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+        <!-- EN LAS LÍNEAS QUE SIGUEN ESTOY ESCRIBIENDO JAVASCRIPT ENTRE LAS ETIQUETAS CORRESPONDIENTES -->
+        <script>
+            console.log("hola");
+            var links = document.querySelectorAll("a");
+            links.forEach((l) => {
+                l.classList.add("link-light");
+            });
+        </script>
+    </body>
+</html>
