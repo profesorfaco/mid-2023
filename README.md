@@ -4,7 +4,7 @@ Jueves, 22 de junio de 2023 → [https://profesorfaco.github.io/mid/clase-1](htt
 
 Martes 27 de junio de 2023 → [https://profesorfaco.github.io/mid/clase-2](https://profesorfaco.github.io/mid/clase-2)
 
-Jueves 29 de junio  de 2023 → HTML, SVG, CSS y JavaScript → Enfocado en SVG.
+Jueves 29 de junio  de 2023 → [https://profesorfaco.github.io/mid/clase-3](https://profesorfaco.github.io/mid/clase-3)
 
 Sábado 1 de julio de 2023 → Pre-entrega
 
