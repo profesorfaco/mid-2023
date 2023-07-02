@@ -6,7 +6,7 @@ Martes 27 de junio de 2023 → [https://profesorfaco.github.io/mid/clase-2](http
 
 Jueves 29 de junio  de 2023 → [https://profesorfaco.github.io/mid/clase-3](https://profesorfaco.github.io/mid/clase-3)
 
-Sábado 1 de julio de 2023 → [Pre-entrega](https://github.com/orgs/diplomado-infografia/repositories)
+Sábado 1 de julio de 2023 → [https://github.com/orgs/diplomado-infografia](https://github.com/orgs/diplomado-infografia/repositories)
 
 Martes 4 de julio de 2023 → Entrega
 
